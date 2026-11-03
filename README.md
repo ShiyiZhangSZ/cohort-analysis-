@@ -1,3 +1,4 @@
 #Cohort analysis
+
 Plan: summarize participant ages.
-Check: report missing ages.
+Check: report missing ages
